@@ -1,4 +1,4 @@
-96075999ded37dd5c01eef93c3048033 *DESCRIPTION
+62a85c4d9f4120538f2081ed13876485 *DESCRIPTION
 3bd29495ef34212db4a8efe547ec4f6d *NAMESPACE
 ec9c710abdf9ad938cbbe674c5d1db76 *R/codeeditor.R
 ef88dbd6ca27ce6a9f41247517847e2f *R/data.browse.R
@@ -30,7 +30,7 @@ fb8291eaed929745f84ace06275f21ad *src/Makefile
 b5a5a1c81bb42e7838dccf77d64013b8 *src/Makefile.win
 1a0bc0185cc38097084cd94dbd05a29b *src/RSyntaxHighlighter.cpp
 176e7214dfe8c996328209eb389d2f15 *src/RSyntaxHighlighter.h
-c0fd307946b1c06910ebfe7ed19d0e8d *src/createProject.sh
+2521ef91895b3ed16fb978ae4a4ac11f *src/createProject.sh
 f2f7124a3196441da580f6c7fb6f8a0f *src/devhelpers.cpp
 21b3787f7895dd5761b6f69a1193d798 *src/devhelpers.hpp
 c7981978c48a5a54af51b1aa7671c64c *src/editor.cpp
